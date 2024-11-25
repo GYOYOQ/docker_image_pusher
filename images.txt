@@ -1,4 +1,4 @@
-nginx-lua
+nginx
 redis
 mysql:8.0-oracle
 #支持私库
