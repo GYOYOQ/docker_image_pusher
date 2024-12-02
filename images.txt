@@ -1,3 +1,4 @@
-minio/mc:latest
+starrocks/fe-ubuntu
+starrocks/cn-ubuntu
 #支持指定架构
 #--platform=linux/amd64 xiaoyaliu/alist
