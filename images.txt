@@ -1,4 +1,3 @@
-starrocks/fe-ubuntu
-starrocks/cn-ubuntu
+ubuntu:20.04
 #支持指定架构
 #--platform=linux/amd64 xiaoyaliu/alist
