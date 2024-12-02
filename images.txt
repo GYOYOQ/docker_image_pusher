@@ -1,4 +1,3 @@
-minio
 starrocks/fe-ubuntu:3.3-latest
 starrocks/cn-ubuntu:3.3-latest
 #支持指定架构
