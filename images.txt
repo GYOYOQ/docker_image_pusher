@@ -1,3 +1,3 @@
-bitnami/kafka-connect:2.2.0
+zhaoyangguang/rebatedog:latest
 #支持指定架构
 #--platform=linux/amd64 xiaoyaliu/alist
