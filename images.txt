@@ -1,3 +1,3 @@
-jitesoft/tesseract-ocr:5-5.5.0
+lengcz/tesseract-ocr-environment:latest
 #支持指定架构
 #--platform=linux/amd64 xiaoyaliu/alist
