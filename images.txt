@@ -1,3 +1,3 @@
-lengcz/tesseract-ocr-web:latest
+bitnami/mongodb-exporter:latest
 #支持指定架构
 #--platform=linux/amd64 xiaoyaliu/alist
