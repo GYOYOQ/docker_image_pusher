@@ -1,3 +1,3 @@
-percona/mongodb_exporter 
+vinlic/doubao-free-api
 #支持指定架构
 #--platform=linux/amd64 xiaoyaliu/alist
